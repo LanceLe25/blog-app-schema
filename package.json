@@ -1,0 +1,26 @@
+{
+  "name": "blog-app-schema",
+  "version": "1.0.0",
+  "description": "schema for blog app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.12",
+    "morgan": "^1.9.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanceLe25/blog-app-schema.git"
+  },
+  "author": "Lance Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LanceLe25/blog-app-schema/issues"
+  },
+  "homepage": "https://github.com/LanceLe25/blog-app-schema#readme"
+}
